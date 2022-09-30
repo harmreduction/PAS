@@ -1,0 +1,21 @@
+_interface: &interface
+  confirm_upload: Click para subir la imagen
+  form_tittle: Formulario Análisis de Sustancias
+  organization: Organización
+  req_field: Campo requerido
+  sample_id: Id de la muestra
+  saved_img: Foto subida con éxito
+  select_update: Seleccionar ID a actualizar
+  show_db: Mostrar base de datos
+  submit_samp: Enviar muestra
+  submit_pre: Enviar datos
+  submit_form: Enviar formulario
+  update_button: Actualizar
+  update_db: Actualizar base de datos
+  update_input: Actualizar resultado de ID
+  upload_img: Subir imagen
+  warning: Prueba enviada sin resultado de la Sustancia-1
+  warning_req_fields: Faltan los campos de la muestra requeridos
+  other_option: Otra opción
+  other: Otro
+  yes_trigger: Sí
